@@ -1,1 +1,72 @@
-# t1sy.github.io
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>0321-个人简历</title>
+	<style>
+		body{
+			margin: 0;
+			padding: 0;
+		}
+		.box1{
+			background-color: #f1f1f1;
+			padding: 20px;
+			text-align: center;
+		}
+		.middle{
+			width: 900px;
+			height: 800px;
+			margin: 24px auto;
+		}
+		.box2{
+			background-color: #f1f1f1;
+			padding: 20px;
+			text-align: center;
+		}
+		span{
+			text-decoration:line-through;
+		}
+		
+		ul{
+			line-height:2.5;
+		}
+	</style>
+</head>
+
+<body>
+	<!------------顶部----------->
+	<div class="box1">
+		<img src="0321.png" alt="123"  width="100px" ></div>
+	<!------------中间----------->
+<div class="middle">
+	<h3 style="color:dodgerblue;Line-height:0.8;">基础信息</h3>
+	    <hr size="2px" color="#f1f1f1">
+	<ul>
+		<li>姓名:仝苏豫</li>
+		<li>出生:2004年10月26日</li>
+		<li>民族:汉族</li>
+		<li>籍贯:江苏省淮安市</li>
+	</ul>
+	<h3 style="color:dodgerblue;Line-height:0.8;">自我简介</h3>
+	<hr>
+	<p>&nbsp;&nbsp;这里是个人简历主页,欢迎.我是现就读于江苏电子信息职业技术学院数字媒体艺术专业的大二学生.擅于学习且有较强的责任心和良好的逻辑思维能力。精神状态良好,工作经验暂无.是坚定的社会主义拥护者.</p>
+	<h3 style="color:dodgerblue;Line-height:0.8;">获奖及证书</h3>
+	    <hr size="2px" color="#f1f1f1">
+	<ul>
+		<h4>获奖:</h4>
+		<p>大学生英语竞赛D类三等奖</p>
+		<h4>证书:</h4>
+		<p>英语四级<br>英语六级<br>普通话二乙<br>计算机一级</p>
+	</ul>
+	<h3 style="color:dodgerblue;Line-height:0.8;">职业技能</h3>
+	<hr>
+	<p>&nbsp;&nbsp;精通PS,AI,AE,PR及WPS系列应用软件<br>熟练使用UNITY,UE</p>
+	</div>
+	<!------------底部----------->
+	<div class="box2">
+	<h4>一个普通的介绍主页</h4>
+	<p><span>公开联系方式:暂无</span></p>
+	</div>
+</body>
+</html>
+   
